@@ -1,7 +1,7 @@
 import random
 import math
 
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import numpy as np
 from matplotlib import animation
 
