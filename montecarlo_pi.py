@@ -21,4 +21,4 @@ for i in range(0 ,  counts):
         in_sq+=1
         pi = (float(in_circ)/ in_sq) * 4
 
-print "estimated vlaue of Pi = %.10f" % (pi)
+print ("estimated vlaue of Pi = ", Pi)
